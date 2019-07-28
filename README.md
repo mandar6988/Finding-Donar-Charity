@@ -1,2 +1,2 @@
 # Finding Donar Charity
-Identify Customer Segments with machine Learning
+Finding Donar charity with machine Learning
